@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "path": "/home/huang/LIBS/experiment/UofA-Fall_2022_Experiments/Data_532/SoilB14/*.h5",
+            "background_path": "/home/huang/LIBS/experiment/UofA-Fall_2022_Experiments/Data_532/Background/*.h5",
+            "correction_factor_file_path": "/home/huang/LIBS/experiment/UofA-Fall_2022_Experiments/Cp_Stellar_Net_2048.xlsx"
+        },
+        {
+            "path": "/home/huang/LIBS/experiment/UofA-Fall_2022_Experiments/Data_532/SoilB15/*.h5",
+            "background_path": "/home/huang/LIBS/experiment/UofA-Fall_2022_Experiments/Data_532/Background/*.h5",
+            "correction_factor_file_path": "/home/huang/LIBS/experiment/UofA-Fall_2022_Experiments/Cp_Stellar_Net_2048.xlsx"
+        }
+    ]
+}
